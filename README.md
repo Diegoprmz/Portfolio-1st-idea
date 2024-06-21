@@ -18,3 +18,8 @@ Despues de un rato buscando y viendo portafolios de desarrolladores me di cuenta
 # Elegir mi estilo
 
 Después de un tiempo de reflexión, decidí que me encanta el minimalismo de las páginas como Ian Dunkerley, además de que mi estilo personal se alinea bastante con ese estilo de interfaz, así que comenzaré el diseño de mi web personal (portafolio) bajo estos estándares e ideas.
+
+# Empezar con el diseño
+
+Ya teniendo en mente el estilo que quiero imprimirle a mi web, empezaré por marcar la estructura general que quiero que tenga.
+Ya que sigo estudiando desarrollo web, por el momento unicamente utilizaré HTML, CSS, un poco de JavaScript y conforme vaya aprendiendo nuevas tecnologías la iré actualizando y mejorando. Por el momento haré el boceto del template general.
