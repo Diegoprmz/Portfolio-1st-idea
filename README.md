@@ -5,7 +5,7 @@ Aquí iré detallando el proceso de como un desarrollador principiante hace su p
 
 # Primera parte proceso creativo 
 
-Primero me inspire de portafolios de otros desarrolladores e intené ver qué era lo que más se acoplaba a mi estilo y personalidad.
+Primero me inspire de portafolios de otros desarrolladores e intenté ver qué era lo que más se acoplaba a mi estilo y personalidad.
 
 Uno de los que más me gustó por su sencillez y estética, fue el del desarrollador Ian Dunkerley. Me gustó que no habían muchos rodeos, se presenta con una animación muy discreta pero elegante y de una pasa a decirte quién es, qué es lo que hace, de donde es y termina con un perfil personal muy corto pero conciso.
 De lado derecho de la página (one-page-web) enlista sus proyectos insignia y en la esquina superior derecha deja hipervinculos hacía sus redes o contacto.
