@@ -23,3 +23,8 @@ Después de un tiempo de reflexión, decidí que me encanta el minimalismo de la
 
 Ya teniendo en mente el estilo que quiero imprimirle a mi web, empezaré por marcar la estructura general que quiero que tenga.
 Ya que sigo estudiando desarrollo web, por el momento unicamente utilizaré HTML, CSS, un poco de JavaScript y conforme vaya aprendiendo nuevas tecnologías la iré actualizando y mejorando. Por el momento haré el boceto del template general.
+
+# Empezar con el desarrollo 
+
+Primero, teniendo ya el diseño, empecé a buscar los colores que quiero utilizar y también las fuentes.
+Ya teniendo lo anterior hice la estructura básica del HTML y empecé con el diseño del CSS en el Styles.css, pero haré atomic design, así que después modularizaré los archivos css.
